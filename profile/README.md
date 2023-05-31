@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is a project by Gustavo Abdon, Gustavo Mitsuo, Samuel Elohim, Isabele, Paulo Ruan , Thamirys 
+
 <!--
 
 **Here are some ideas to get you started:**
