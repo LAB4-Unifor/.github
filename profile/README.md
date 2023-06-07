@@ -66,9 +66,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     <!-- Perfil 4-->
     <td align="center">
       <a href="#">
-        <img src="https://img.freepik.com/vetores-premium/icone-de-avatar-masculino-pessoa-desconhecida-ou-anonima-icone-de-perfil-de-avatar-padrao-usuario-de-midia-social-homem-de-negocios-silhueta-de-perfil-de-homem-isolada-no-fundo-branco-ilustracao-vetorial_735449-120.jpg" width="100px;" alt="Foto da Isabele"/><br>
+        <img src="https://img.freepik.com/vetores-premium/icone-de-avatar-masculino-pessoa-desconhecida-ou-anonima-icone-de-perfil-de-avatar-padrao-usuario-de-midia-social-homem-de-negocios-silhueta-de-perfil-de-homem-isolada-no-fundo-branco-ilustracao-vetorial_735449-120.jpg" width="100px;" alt="Foto da Isabele mesquita"/><br>
         <sub>
-          <b>Isabele</b>
+          <b>Isabele Mesquita</b>
         </sub>
       </a>
     </td>
