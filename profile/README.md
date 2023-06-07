@@ -1,6 +1,6 @@
 <h1 align="center">Retrofitting Mitsubishi RV-25 DB </h1>
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="profile/exemplo-image.jpeg" alt="exemplo imagem">
 
 O projeto acadêmico desenvolvido na Universidade de Fortaleza (UNIFOR) consiste no retrofitting do Mitsubishi RV-25 DB, juntamente com a criação de um software de simulação 3D para esse veículo. O objetivo principal é consertar, modernizar e aprimorar as funcionalidades do RV-25 DB, ao mesmo tempo em que se desenvolve uma ferramenta de simulação que permita avaliar seu desempenho e comportamento em diferentes cenários.
 
