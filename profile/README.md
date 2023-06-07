@@ -1,18 +1,18 @@
-<h1 align="center">Retrofitting Mitsubishi RV-25 DB </h1>
+<h1 align="center">Retrofitting Manipuador Robótico Mitsubishi RV-25 DB </h1>
 
 <img src="https://github.com/LAB4-Unifor/.github/blob/main/profile/exemplo-image.jpeg" alt="exemplo imagem">
 
-O projeto acadêmico desenvolvido na Universidade de Fortaleza (UNIFOR) consiste no retrofitting do Mitsubishi RV-25 DB, juntamente com a criação de um software de simulação 3D para esse veículo. O objetivo principal é consertar, modernizar e aprimorar as funcionalidades do RV-25 DB, ao mesmo tempo em que se desenvolve uma ferramenta de simulação que permita avaliar seu desempenho e comportamento em diferentes cenários.
+O projeto acadêmico desenvolvido na Universidade de Fortaleza (UNIFOR) consiste no retrofitting do Manipuador Robótico Mitsubishi RV-25 DB, juntamente com a criação de um software de simulação 3D para esse Manipulador robótico. O objetivo principal é consertar, modernizar e aprimorar as funcionalidades do RV-25 DB, ao mesmo tempo em que se desenvolve uma ferramenta de simulação que permita avaliar seu desempenho e comportamento em diferentes cenários.
 
-O retrofitting envolve a atualização e o aperfeiçoamento de componentes existentes no Mitsubishi RV-25 DB, um robô industrial utilizado em diversas aplicações. Com base em uma análise aprofundada das características e requisitos do veículo, serão realizadas melhorias em sua estrutura, eletrônica, sistemas de controle e demais aspectos relevantes. Além disso, como parte integrante do projeto, será desenvolvido um software de simulação 3D específico para o Mitsubishi RV-25 DB. Essa ferramenta permitirá a criação de ambientes virtuais nos quais será possível simular o funcionamento do robô em tempo real, reproduzindo condições reais de trabalho. Por meio da simulação, será possível testar diferentes configurações, programações e estratégias de controle, proporcionando uma análise detalhada do desempenho do RV-25 DB em diversas situações.
+O retrofitting envolve a atualização e o aperfeiçoamento de componentes existentes no Mitsubishi RV-25 DB, um robô industrial utilizado em diversas aplicações. Com base em uma análise aprofundada das características e requisitos do Manipulador, serão realizadas melhorias em sua estrutura, eletrônica, sistemas de controle e demais aspectos relevantes. Além disso, como parte integrante do projeto, será desenvolvido um software de simulação 3D específico para o Mitsubishi RV-25 DB. Essa ferramenta permitirá a criação de ambientes virtuais nos quais será possível simular o funcionamento do robô em tempo real, reproduzindo condições reais de trabalho. Por meio da simulação, será possível testar diferentes configurações, programações e estratégias de controle, proporcionando uma análise detalhada do desempenho do RV-25 DB em diversas situações.
 
-A combinação do retrofitting com o software de simulação 3D possibilitará uma abordagem abrangente no aprimoramento do Mitsubishi RV-25 DB. O projeto visa oferecer uma solução completa que engloba tanto a melhoria física do veículo quanto uma plataforma virtual para aprimoramento de seu desempenho. Essa abordagem inovadora tem o potencial de beneficiar tanto a indústria quanto a academia, proporcionando avanços significativos no campo da robótica e automação industrial.
+A combinação do retrofitting com o software de simulação 3D possibilitará uma abordagem abrangente no aprimoramento do Mitsubishi RV-25 DB. O projeto visa oferecer uma solução completa que engloba tanto a melhoria física do Manipulador Robótico quanto uma plataforma virtual para aprimoramento de seu desempenho. Essa abordagem inovadora tem o potencial de beneficiar tanto a indústria quanto a academia, proporcionando avanços significativos no campo da robótica e automação industrial.
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos para cada um dos repositórios
+### Antes de começar, verifique se você atendeu aos seguintes requisitos para cada um dos repositórios
 
-- Você deve ter uma máquina `<Linux>` ou maquina virtual com alguma distribuição de `<Linux>`. 
+#### Você deve ter uma máquina `<Linux>` ou maquina virtual com alguma distribuição de `<Linux>`. 
 - Todos os repos e códigos são codados e gerados para maquinas linux e ainda sem previsão para um porte no Windows
 * Deve-se seguir o script no readme do m-simulation para poder dar Dubug no código
 * Leia os`<README.md>` dos demais Repositórios para informações completas sobre cada um.
