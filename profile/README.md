@@ -8,7 +8,7 @@ O retrofitting envolve a atualização e o aperfeiçoamento de componentes exist
 
 A combinação do retrofitting com o software de simulação 3D possibilitará uma abordagem abrangente no aprimoramento do Mitsubishi RV-25 DB. O projeto visa oferecer uma solução completa que engloba tanto a melhoria física do veículo quanto uma plataforma virtual para aprimoramento de seu desempenho. Essa abordagem inovadora tem o potencial de beneficiar tanto a indústria quanto a academia, proporcionando avanços significativos no campo da robótica e automação industrial.
 
-### Ajustes e melhorias
+## Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
