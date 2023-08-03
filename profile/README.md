@@ -1,6 +1,6 @@
 <h1 align="center">Retrofitting Manipuador Robótico Mitsubishi RV-25 DB </h1>
 
-<img src="https://github.com/LAB4-Unifor/.github/blob/main/profile/exemplo-image.jpeg" alt="exemplo imagem">
+<img src="" alt="exemplo imagem">
 
 O projeto acadêmico desenvolvido na Universidade de Fortaleza (UNIFOR) consiste no retrofitting do Manipuador Robótico Mitsubishi RV-25 DB, juntamente com a criação de um software de simulação 3D para esse Manipulador robótico. O objetivo principal é consertar, modernizar e aprimorar as funcionalidades do RV-25 DB, ao mesmo tempo em que se desenvolve uma ferramenta de simulação que permita avaliar seu desempenho e comportamento em diferentes cenários.
 
