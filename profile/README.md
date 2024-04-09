@@ -1,4 +1,4 @@
-<h1 align="center">Retrofitting Manipuador Robótico Mitsubishi RV-25 DB </h1>
+<h1 align="center">Retrofitting Manipulador Robótico Mitsubishi RV-25 DB </h1>
 
 <img src="" alt="exemplo imagem">
 
